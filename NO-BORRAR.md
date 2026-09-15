@@ -109,6 +109,11 @@ git checkout <commit>^ -- "media/<archivo>"                    # restaurar desde
 
 ### Fotos de firma (nombre completo) (13)
 
+Son la foto EN VIVO que usa `firma-generador-mowi.html` para estas 13 personas puntuales —
+NO son duplicados de las fotos cortas `firma-foto-*` de la lista de arriba. Cada persona tiene
+una sola foto activa en el generador; el nombre completo con timestamp identifica cuál es la
+vigente cuando hubo más de una versión subida.
+
 - `Amanda-Rodrigues-Duarte-20260803-114131.png`
 - `Ana-Leticia-Figueroa-de-Sá-20260803-114148.png`
 - `Carlos-Moreno-20260803-114201.png`
