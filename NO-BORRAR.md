@@ -134,3 +134,10 @@ Se retiraron deliberadamente porque este repositorio es PUBLICO:
 
 - `minidumps-rtx3050-0x133-*.zip` - volcados de memoria de Windows
 - `kit-claude-laptop-remota-*.zip` - kit de configuracion
+
+## Revisados y conservados (2026-09-30)
+
+Dos archivos que ningún generador ni página usa hoy, revisados y CONSERVADOS por decisión de Dani: una firma de correo ya instalada en el buzón de alguien podría seguir apuntando a ellos, y borrar algo así ya rompió las firmas de todo el equipo el 2026-08-27. No se borran.
+
+- `firma-foto-carlos-moreno.png` (el generador de firmas usa `Carlos-Moreno-20260803-114201.png`)
+- `Mariangela-Floriam-Colina-Alarcon-20260804-114737.jpg`
