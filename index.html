@@ -162,7 +162,7 @@ const FLAGS = {
   cl:'<svg viewBox="0 0 20 14"><rect width="20" height="14" fill="#fff"/><rect y="7" width="20" height="7" fill="#d52b1e"/><rect width="8" height="7" fill="#0039a6"/><polygon points="4,2 4.9,4.2 7.2,4.2 5.4,5.6 6,7.8 4,6.4 2,7.8 2.6,5.6 0.8,4.2 3.1,4.2" fill="#fff"/></svg>'
 };
 
-function esc(s){ return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+function esc(s){ return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
 
 function linkRow(items){
   return '<div class="links">' + items.map(function(it){
