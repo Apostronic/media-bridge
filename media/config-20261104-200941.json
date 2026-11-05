@@ -1,0 +1,27 @@
+{
+ "clientes-es": {
+  "subject": "Traslados de noviembre que ya suman cashback",
+  "preview": "Aeropuerto, grupos y eventos: cada reserva de noviembre suma USD 30 por cada USD 1.000.",
+  "len": 17135
+ },
+ "clientes-pt-br": {
+  "subject": "Traslados de novembro que já acumulam cashback",
+  "preview": "Aeroporto, grupos e eventos: cada reserva de novembro soma US$ 30 a cada US$ 1.000.",
+  "len": 17147
+ },
+ "clientes-en": {
+  "subject": "November transfers that already earn cashback",
+  "preview": "Airport, groups and events: every November booking earns USD 30 per USD 1,000.",
+  "len": 16945
+ },
+ "prospectos-es": {
+  "subject": "Traslados de noviembre que ya suman cashback",
+  "preview": "Aeropuerto, grupos y eventos: cada reserva de noviembre suma USD 30 por cada USD 1.000.",
+  "len": 17214
+ },
+ "prospectos-pt-br": {
+  "subject": "Traslados de novembro que já acumulam cashback",
+  "preview": "Aeroporto, grupos e eventos: cada reserva de novembro soma US$ 30 a cada US$ 1.000.",
+  "len": 17262
+ }
+}
